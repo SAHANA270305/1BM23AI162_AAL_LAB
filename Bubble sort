@@ -90,6 +90,7 @@ int main() {
 
 
 OUTPUT:
+
 Enter the number of elements (up to 1000): 7
 Array elements before sorting:
 29 24 31 91 85 21 67 
